@@ -1,5 +1,5 @@
 # INSdFCtoolbox
 
-<img src="images/TS2FC.png" width="50">
+<img src="images/TS2FC.png" width="500">
 
 
