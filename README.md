@@ -1,9 +1,9 @@
 # INSdFCtoolbox
 
 1. TS2FC
-,,,
+```
 sdfsd
-,,,
+```
 
 
 <img src="images/TS2FC.png" width="800">
