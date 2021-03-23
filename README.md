@@ -2,7 +2,7 @@
 
 ### TS2FC
 
-The ```TS2FC``` function takes as input the time-series, then it computes the pair-wise pearson correlation and finally gives as output a FC (functional connectivity) matrix.
+The ```TS2FC``` function takes as input the time-series, then it computes the pearson correlation between pair of nodes and generates the time-averaged FC (functional connectivity) matrix as output with size nxn where n is the number of nodes. The FC gives information on the apatial aspect of time-series and quantifies the degree of similarity between pair of nodes. 
 
 
 <img src="images/TS2FC.png" width="800">
