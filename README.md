@@ -1,7 +1,8 @@
 # INSdFCtoolbox
 
 ### TS2FC
-asfdasf```sdfsd```sdfadf
+
+The ```TS2FC``` function takes as input the time-series, then it computes the pair-wise pearson correlation and finally gives as output a FC (functional connectivity) matrix.
 
 
 <img src="images/TS2FC.png" width="800">
