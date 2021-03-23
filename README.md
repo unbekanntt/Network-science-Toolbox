@@ -9,7 +9,7 @@
 2. TS2dFCstream
 
 
-<img src="images/TS2dFCstream.png" width="800">
+<img src="images/TS2dFCstream.png" width="500">
 
 
 
