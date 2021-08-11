@@ -1,4 +1,4 @@
-# INSdFCtoolbox
+# Network science Toolbox
 
 ### TS2FC
 
